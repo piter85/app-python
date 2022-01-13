@@ -1,0 +1,2 @@
+s = 'Ciao'
+print(s)
